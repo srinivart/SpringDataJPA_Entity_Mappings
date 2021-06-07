@@ -1,0 +1,1 @@
+# SpringDataJPA_Entity_Mappings
